@@ -1,1 +1,1 @@
-# sakura-hook
+# sakura-github-webhook
