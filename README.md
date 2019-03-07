@@ -1,4 +1,4 @@
-# sakura-github-webhook
+# github-webhook
 GitHubのwebhookイベントを習得するプログラム
 
 ## 環境
