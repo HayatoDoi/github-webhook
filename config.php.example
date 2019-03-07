@@ -1,0 +1,8 @@
+<?php
+$REPO = array(
+    'reponame' => array(
+        'branch'=>'master',
+        'secret_key'=> 'xxxxxxxxxxxxxx',
+        'path' => '~/www/reponame',
+        'exec' => 'git pull origin master'),
+);
